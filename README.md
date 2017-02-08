@@ -40,14 +40,14 @@ Workaround: sign up for a free org, and set up Slackin to point to it
 #### Realtime ([demo](https://cldup.com/IaiPnDEAA6.gif))
 
 ```html
-<script async defer src="https://slack.yourdomain.com/slackin.js"></script>
+<script async defer src="https://slack.scicog.com/slackin.js"></script>
 <!-- append "?" to the URL for the large version -->
 ```
 
 #### SVG ([demo](https://cldup.com/jWUT4QFLnq.png))
 
 ```html
-<img src="https://slack.yourdomain.com/badge.svg">
+<img src="https://slack.scicog.com/badge.svg">
 ```
 
 ## API
